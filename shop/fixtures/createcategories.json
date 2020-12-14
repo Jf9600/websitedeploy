@@ -1,0 +1,20 @@
+[
+    {
+        "model": "shop.category",
+        "pk": "de916ce4b23a428c9eff5bcccb8ccb09",
+        "fields": {
+            "name": "Cotton",
+            "description": "100% cotton",
+            "image": "/category/cotton_banner.jpg"
+        }
+    },
+    {
+        "model": "shop.category",
+        "pk": "2509f8dc452d41ffb1a5f8b727999dc5",
+        "fields": {
+            "name": "Polyester",
+            "description": "100% polyester", 
+            "image": "/category/polyester_banner.jpg"
+        }
+    }
+]

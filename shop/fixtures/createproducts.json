@@ -1,0 +1,123 @@
+[
+    {
+      "model": "shop.product",
+      "pk": "a9e6c53d6734400f89bead1b27b8f357",
+      "fields": {
+        "category_id":"de916ce4b23a428c9eff5bcccb8ccb09",
+        "name": "Black Urban",
+        "description": "Nice cotton cushion",
+        "stock": 3,
+        "price": 100.00,
+        "image": "/product/black_urban.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "cb59f906690a4614af5e1614418ee7f4",
+      "fields": {
+        "category_id":"de916ce4b23a428c9eff5bcccb8ccb09",
+        "name": "Paw Patrol",
+        "description": "Nice cotton paw patrol cushion",
+        "stock": 3,
+        "price": 100.00,
+        "image": "/product/paw_patrol.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "555d583bb8244632b70f9a36ff7f989a",
+      "fields": {
+        "category_id":"de916ce4b23a428c9eff5bcccb8ccb09",
+        "name": "Pug Dog",
+        "description": "Nice cotton pug dog cushion",
+        "stock": 30,
+        "price": 23.00,
+        "image": "/product/pug_dog.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "0cd31f0196524e2aa1fe0e76e5c26337",
+      "fields": {
+        "category_id":"de916ce4b23a428c9eff5bcccb8ccb09",
+        "name": "Red Decorative Cushion",
+        "description": "Nice cotton red cushion",
+        "stock": 30,
+        "price": 23.00,
+        "image": "/product/red_decorative.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "13dc2a3829e8460eb907769ee3727a0f",
+      "fields": {
+        "category_id":"2509f8dc452d41ffb1a5f8b727999dc5",
+        "name": "Despicable Me",
+        "description": "Nice polyester cushion",
+        "stock": 3,
+        "price": 100.00,
+        "image": "/product/despicable_me.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "6114b4c5d3c343ad8a52a5f511c35e03",
+      "fields": {
+        "category_id":"2509f8dc452d41ffb1a5f8b727999dc5",
+        "name": "Elephant",
+        "description": "Nice polyester elephant cushion",
+        "stock": 33,
+        "price": 50.00,
+        "image": "/product/elephant.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "04d22823db164a1f84f9126e1a1dcc98",
+      "fields": {
+        "category_id":"2509f8dc452d41ffb1a5f8b727999dc5",
+        "name": "Floral",
+        "description": "Nice polyester floral cushion",
+        "stock": 13,
+        "price": 25.00,
+        "image": "/product/floral.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "b3d55dba5e5f4e74a4640d2d5c2f9fd4",
+      "fields": {
+        "category_id":"2509f8dc452d41ffb1a5f8b727999dc5",
+        "name": "Frida",
+        "description": "Nice polyester frida cushion",
+        "stock": 19,
+        "price": 15.00,
+        "image": "/product/frida.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "dcd7d0ba632042c481a28a74a1905c35",
+      "fields": {
+        "category_id":"2509f8dc452d41ffb1a5f8b727999dc5",
+        "name": "Red Stripe",
+        "description": "Nice polyester red stripe cushion",
+        "stock": 49,
+        "price": 65.00,
+        "image": "/product/red_stripe_square.jpg"
+        }
+    },
+    {
+      "model": "shop.product",
+      "pk": "3987c0ee7b244ca9acfb6f9d9a1d7a04",
+      "fields": {
+        "category_id":"2509f8dc452d41ffb1a5f8b727999dc5",
+        "name": "Woodland",
+        "description": "Nice polyester woodland cushion",
+        "stock": 49,
+        "price": 65.00,
+        "image": "/product/woodland.jpg"
+        }
+    }
+  ]
+   
